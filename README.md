@@ -1,5 +1,5 @@
-# realblog
-- Revolutionary Entrepreneurial Agile Lean -
+# realblog.
+## `Reliable Evolving Agile Lean`
 
 The four pillars of an application represent those foundation values which distinguish the organisation.
 
