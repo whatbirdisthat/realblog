@@ -58,6 +58,16 @@ is required to perform.
 ### Leanitude
 > "Quicker, easier, more seductive the dark side is."
 
+If we read our [scalable_architecture](./features/scalable_architecture.feature) feature we will find that
+architectures that are implemented "because we might strike it lucky" actually just drain money from our bank
+account, and don't provide us with any *value*.
+
+[ ![Codeship Status for whatbirdisthat/realblog](https://codeship.com/projects/78745f10-2ee2-0134-93e4-5ebc8f268022/status?branch=master)](https://codeship.com/projects/163749)
+
+The feature describes the behaviour of IT/OPS departments who over-provision their infrastructure
+based on the idea that a one-time-spike in load might "bring down the site". As we can see from the 
+[codeship](https://www.codeship.io) status - this fails to deliver on leanitude.
+
 Maintaining a *Lean Attitude* throughout design and construction phase is key to providing an agile, evolving
 and reliable system that has a high likelihood of survival. This kind of attitude informs the designers and
 implementers as to the patterns they choose when developing the services representing the feature-set of both
