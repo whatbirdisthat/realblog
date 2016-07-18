@@ -1,0 +1,30 @@
+{
+  "name": "realblog",
+  "description": "```bash ./realblog ```",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "cucumber": "~1.2.0",
+    "jasmine-core": "2.4.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/whatbirdisthat/realblog.git"
+  },
+  "keywords": [
+    "reliable",
+    "evolving",
+    "agile",
+    "lean"
+  ],
+  "author": "David Walters",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/whatbirdisthat/realblog/issues"
+  },
+  "homepage": "https://github.com/whatbirdisthat/realblog#readme"
+}
