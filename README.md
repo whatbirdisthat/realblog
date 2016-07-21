@@ -23,7 +23,7 @@ which propel the software into the wider arena. When consumers of software are c
 their productivity is unimpeded by the software. When producers of the software are confident in the software,
 the producers are able to make claims about the software which will attract more consumers to the software.
 
-As an organisation that offers reliability packaged into its array of products and services will attract
+An organisation that offers reliability packaged into its array of products and services will attract
 repeat business, and reputation will build for that organisation whose software is rigorously tested
 before it is released onto the market. 
 
@@ -37,7 +37,8 @@ the software for continued malleability, allowing it to grow and change with the
 
 Evolution underpins the software's ability to remain relevant. To stay in use, software needs to add and remove
 features and sometimes split or merge with other software. Business *systems* utilise software *ecosystems* and
-the application of certain survival traits found in observed ecosystems.
+the application of certain survival traits found in observed ecosystems will aid the software in its continued
+survival.
 
 
 ### Agility
@@ -49,10 +50,18 @@ greatly improve a team's ability not only to develop applications quickly, but t
 a shared lexicon**. 
 
 Using a suite of unit tests to document application *design* bridges the gap between consumer and provider
-design documentation. Using language that is shared across disciplines (such as `As, I, So`) for 
-design feature descriptions, linking requirements to code using a bridging language like
+design documentation. Using language that is shared across disciplines (such as `As, I, So`, and `Given, When, Then`)
+for design feature descriptions, linking requirements to code using a bridging language like
 [Gherkin](https://cucumber.io/docs/reference) to describe in detail the consumer scenarios the application
-is required to perform.
+is required to perform facilitates the clarity of communication required to effectively produce software that
+will not only survive, but *thrive*.
+
+Using a common, portable design language from requirements through development to delivery is key to
+controlling the inevitable variance (from idea to reality) encountered during the production of a 
+software system. Those simple phrasings listed above can bind the vision to the reality in a way that
+is not possible otherwise. Providing a set of automated proofs that each design statement
+(or *acceptance criterion*) has been adequately met by the software gives all stakeholders confidence that
+the software is meeting the needs of the consumer.
 
 
 ### Leanitude
