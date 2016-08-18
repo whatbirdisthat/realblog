@@ -1,3 +1,9 @@
+---
+layout: post
+title:  "Script the world"
+date:   2016-07-22 14:20:55 +1000
+categories: devops
+---
 # Applied Devops
 
 ## `Script the world`
